@@ -1,0 +1,7 @@
+{
+    "require": {
+        "solarium/solarium": "~5.0.0",
+        "mmucklo/krumo": "*",
+        "matriphe/iso-639": "1.2"        
+    }
+}
